@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mickpurple
-- 👀 I’m interested in all kind visual art, Design, webDev and gameDev.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m a fullstack web developer.
+- 👀 I’m interested in all kind Tech, Design, webDev and gameDev.
 - 📫 You can reach me out on Twitter @theMickpurple
 
 <!---
