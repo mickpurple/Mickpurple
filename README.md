@@ -1,5 +1,5 @@
-- 👋 Hi, I’m mickpurple
-- 🌱 I’m a fullstack web developer.
+- 👋 Hi, I’m kartikey Soni, aka mickpurple.
+- 🌱 I’m a software developer engineer.
 - 👀 I’m interested in all kind Tech, Design, webDev and gameDev.
 - 📫 You can reach me out on Twitter @theMickpurple
 
