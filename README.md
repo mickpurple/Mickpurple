@@ -3,13 +3,13 @@
 
 #### Connect with me:
 <p align="left">
-  <a href="https://twitter.com/theMickpurple" target="blank">
+  <a href="https://twitter.com/theMickpurple" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theMickpurple" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/kartikey-soni-a0b527220/" target="blank">
+  <a href="https://www.linkedin.com/in/kartikey-soni-a0b527220/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kartikey Soni" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/mickpurple" target="blank">
+  <a href="https://instagram.com/mickpurple" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mickpurple" height="30" width="40" />
   </a>
 </p>
