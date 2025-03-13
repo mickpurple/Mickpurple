@@ -1,5 +1,5 @@
 ### Hi, I'm Kartik aka mick around the web
-#### A tech enthusiast from India
+#### A tech enthusiast
 
 #### Connect with me:
 <p align="left">
